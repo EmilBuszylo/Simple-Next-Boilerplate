@@ -1,0 +1,10 @@
+src/registerServiceWorker.js
+node_modules/*
+public/*
+build/*
+config/*
+.next/*
+__mocks__/*
+static/*
+test/*
+package.json

@@ -1,0 +1,26 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+#editor
+.vscode/
+
+# dependencies
+/node_modules
+babel_cache
+
+# testing
+/coverage
+__mocks__
+
+# production
+/build
+/dist
+/.next
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+lerna-debug.log
